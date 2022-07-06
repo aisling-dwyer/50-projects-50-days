@@ -1,5 +1,5 @@
 const loadText = document.querySelector('.loading-text')
-const bg = documnet.querySelector('.bg')
+const bg = document.querySelector('.bg')
 
 let load = 0
 
