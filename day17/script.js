@@ -1,3 +1,5 @@
+// async API data fetching 
+
 const API_URL = 'https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=97961b6eaf7058f87c87781c36bdaf36&page=1'
 
 const IMG_PATH = 'https://image.tmdb.org/t/p/w1280'
